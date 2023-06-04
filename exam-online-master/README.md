@@ -1,8 +1,9 @@
-# exam-online
+# CET6-exam-online 前端
 
-后端代码：https://github.com/520118202/ExamOnline
+#### 前端：Vue
 
 ## Project setup
+
 ```
 npm install
 ```
@@ -16,6 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
