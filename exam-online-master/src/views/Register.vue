@@ -2,7 +2,7 @@
 	<div id="register">
 		<el-container>
 			<el-header>
-				<h1 style="color: #FFFFFF;margin-top: 50px;">Python在线考试系统</h1>
+				<h1 style="color: #000000;margin-top: 150px;font-size: 40px;">英语六级报名考试系统</h1>
 			</el-header>
 			<el-main>
 				<div id="register-from">
@@ -176,8 +176,9 @@
 </script>
 
 <style lang="scss" scoped>
+
 	#register {
-		// height: 700px;
+		height: 900px;
 		/* background-color: #244d6f; */
 		background-image: url(../assets/bg.jpg);
 		background-repeat: no-repeat;
@@ -185,7 +186,7 @@
 	}
 
 	#register-from {
-		margin: 0px 540px;
+		margin: 200px 725px;
 		width: 400px;
 		height: 600px;
 		border-radius: 10px;

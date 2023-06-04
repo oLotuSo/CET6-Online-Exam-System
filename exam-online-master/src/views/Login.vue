@@ -2,7 +2,7 @@
 	<div id="login">
 		<el-container>
 			<el-header>
-				<h1 style="color: #FFFFFF;margin-top: 50px;">英语六级报名考试系统</h1>
+				<h1 style="color: #000000;margin-top: 150px;font-size: 40px;">英语六级报名考试系统</h1>
 			</el-header>
 			<el-main>
 				<div id="login-from">
@@ -104,7 +104,7 @@
 
 <style lang="scss" scoped>
 	#login {
-		height: 700px;
+		height: 900px;
 		// background-color: #244d6f;
 		background-image: url(../assets/bg.jpg);
 		background-repeat: no-repeat;
@@ -112,7 +112,7 @@
 	}
 
 	#login-from {
-		margin: 50px 700px;
+		margin: 200px 725px;
 		width: 400px;
 		height: 400px;
 		border-radius: 10px;
